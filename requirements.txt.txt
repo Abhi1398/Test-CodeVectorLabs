@@ -1,0 +1,18 @@
+This includes the requirements necesarry for the proper runnung of the Program
+
+1. Ball tracking : 
+a. Python (3.6.x)
+b. Opencv 3
+c. imutils
+d. numpy 
+
+You can run the program using the command line in windows
+
+Note : Change the directory to this github repo and then run the program
+
+2. For pose estimation : 
+There are no requirements for this as this runs over google colab server
+
+Restart the kernel and try running the notebook again.
+
+Note : Change the runtime system to GPU
